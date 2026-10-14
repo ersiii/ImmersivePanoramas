@@ -9,7 +9,6 @@ Dynamic title screen panoramas captured from your worlds and servers.
 [![Download on Modrinth](https://img.shields.io/badge/Download_on-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/mod/immersive-panoramas)
 [![Loader: Fabric](https://img.shields.io/badge/Loader-Fabric-1f8b4c?style=flat-square&logo=fabric&logoColor=white)](https://fabricmc.net/)
 [![Environment: Client](https://img.shields.io/badge/Environment-Client-0284c7?style=flat-square)](https://modrinth.com/mods)
-[![Requirement: Fabric API](https://img.shields.io/badge/Requires-Fabric_API-475569?style=flat-square)](https://modrinth.com/mod/fabric-api)
 
 </div>
 
@@ -19,7 +18,7 @@ Dynamic title screen panoramas captured from your worlds and servers.
 
 **Immersive Panoramas** replaces the static vanilla main menu with a panoramic view of your actual in-game locations.
 
-Whenever you quit a singleplayer world or disconnect from a multiplayer server, the mod instantly captures a full 360° cubemap of your surroundings on the GPU. By the time the main menu loads, your background has already seamlessly transitioned to your last location—facing the exact same direction you were looking when you left.
+Whenever you quit a singleplayer world or disconnect from a multiplayer server, the mod instantly captures a full 360° cubemap of your surroundings, seamlessly transitioning to your last location while facing the exact same direction you were looking when you left.
 
 [![Watch Showcase on YouTube](https://img.youtube.com/vi/Hy0773L7jyA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hy0773L7jyA "Click to watch on YouTube")
 **[▶ Watch the Showcase Video on YouTube](https://www.youtube.com/watch?v=Hy0773L7jyA)**
@@ -52,6 +51,6 @@ If you have [Mod Menu](https://modrinth.com/mod/modmenu) installed, you can open
 ### Installation & Compatibility
 
 - **Download**: Grab the latest release on [Modrinth](https://modrinth.com/mod/immersive-panoramas).
-- **Loader**: Requires **Fabric Loader** and **Fabric API**.
+- **Loader**: Requires **Fabric Loader** or **Quilt Loader**.
 - **Config GUI**: [Mod Menu](https://modrinth.com/mod/modmenu) is recommended to access the settings in-game.
 - **100% Client-Side**: This mod runs entirely on your client. You can freely join vanilla, Fabric, Paper, or Forge/NeoForge servers without having the mod installed on the server.
