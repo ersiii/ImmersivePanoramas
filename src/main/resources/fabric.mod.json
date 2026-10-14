@@ -5,7 +5,11 @@
   "name": "Immersive Panoramas",
   "description": "Seamlessly captures dynamic 360° panoramas when leaving worlds or servers and updates your main menu background.",
   "authors": ["Ersi"],
-  "contact": {},
+  "contact": {
+    "homepage": "https://modrinth.com/mod/immersive-panoramas",
+    "sources": "https://github.com/ersiii/ImmersivePanoramas",
+    "issues": "https://github.com/ersiii/ImmersivePanoramas/issues"
+  },
   "license": "All-Rights-Reserved",
   "icon": "assets/immersivepanoramas/icon.png",
   "environment": "client",
