@@ -7,7 +7,9 @@
 Dynamic title screen panoramas captured from your worlds and servers.
 
 [![Download on Modrinth](https://img.shields.io/badge/Download_on-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/mod/immersive-panoramas)
-[![Loader: Fabric](https://img.shields.io/badge/Loader-Fabric-1f8b4c?style=flat-square&logo=fabric&logoColor=white)](https://fabricmc.net/)
+[![Fabric](https://img.shields.io/badge/Fabric-395985?style=flat-square)](https://fabricmc.net/)
+[![Quilt](https://img.shields.io/badge/Quilt-583B8B?style=flat-square)](https://quiltmc.org/)
+[![NeoForge](https://img.shields.io/badge/NeoForge-E57324?style=flat-square)](https://neoforged.net/)
 [![Environment: Client](https://img.shields.io/badge/Environment-Client-0284c7?style=flat-square)](https://modrinth.com/mods)
 
 </div>
@@ -36,7 +38,7 @@ Whenever you quit a singleplayer world or disconnect from a multiplayer server, 
 
 ### In-Game Configuration
 
-If you have [Mod Menu](https://modrinth.com/mod/modmenu) installed, you can open the config screen at any time to customize which worlds or servers update your title screen:
+Access the configuration screen via [Mod Menu](https://modrinth.com/mod/modmenu) on Fabric/Quilt or directly through the native **Mods** list on NeoForge:
 
 ![Immersive Panoramas Config Screen](https://cdn.modrinth.com/data/cached_images/0d346bfef60747ec245794326c8ffdf254839641.png)
 
@@ -50,7 +52,9 @@ If you have [Mod Menu](https://modrinth.com/mod/modmenu) installed, you can open
 
 ### Installation & Compatibility
 
-- **Download**: Grab the latest release on [Modrinth](https://modrinth.com/mod/immersive-panoramas).
-- **Loader**: Requires **Fabric Loader** or **Quilt Loader**.
-- **Config GUI**: [Mod Menu](https://modrinth.com/mod/modmenu) is recommended to access the settings in-game.
-- **100% Client-Side**: This mod runs entirely on your client. You can freely join vanilla, Fabric, Paper, or Forge/NeoForge servers without having the mod installed on the server.
+- **Download**: Grab the latest release on [Modrinth](https://modrinth.com/mod/immersive-panoramas) for your loader.
+- **Supported Loaders**:
+  - **Fabric** & **Quilt** (use the Fabric JAR)
+  - **NeoForge** (use the NeoForge JAR)
+- **Config GUI**: Accessible via [Mod Menu](https://modrinth.com/mod/modmenu) on Fabric/Quilt, or the built-in **Mods** config button on NeoForge.
+- **100% Client-Side**: This mod runs entirely on your client. You can freely join vanilla, Fabric, Paper, Spigot, or Forge/NeoForge servers without having the mod installed on the server.
